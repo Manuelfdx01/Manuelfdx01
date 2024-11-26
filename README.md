@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mi amazing perfil de GitHub.
+## Hola, soy Manuel Castro
 
-<!--
-**Manuelfdx01/Manuelfdx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪁☄️Sobre mi:
+- 🔭 Actualmente estoy estudiando ingeniería de sistemas y computación. 
+- 🌱 Estudiante de la Universidad Nacional de Colombia.
+- ☁️ "Si puedes imaginarlo puedes programarlo".
+- 👨‍🔬 Mis metas son desarrollar y escribir código eficiente, y poder escalar cualquier problema al campo de la programción.
+### Tecnologias 💻 (en lo que estoy interesado:)
+- Python.🐍
+- Html.📍
+- COBOL.🌐
+- Data Science.🖧
+- Desarrollo de videojuegos.🎮
