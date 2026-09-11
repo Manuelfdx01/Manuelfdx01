@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manuelfdx01&theme=tokyonight" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfdx01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuelfdx01&theme=tokyonight" width="48%" />
 </p>
 
 ---
