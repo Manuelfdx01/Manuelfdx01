@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfx01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manuelfdx01&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfdx01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
