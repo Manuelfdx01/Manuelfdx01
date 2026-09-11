@@ -37,7 +37,7 @@
 
 | Aspecto | Detalle |
 | :--- | :--- |
-| 🎓 **Universidad** | Universidad Nacional de Colombia 🇨🇴 |
+| 🎓 **Universidad** | Universidad Nacional de Colombia|
 | 💻 **Fortalezas** | Lógica de programación, desarrollo y análisis |
 | 🚀 **Áreas interesadas** | Analytics and Data Science,  y COBOL |
 
