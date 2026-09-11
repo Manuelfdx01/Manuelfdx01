@@ -38,8 +38,8 @@
 | Aspecto | Detalle |
 | :--- | :--- |
 | 🎓 **Universidad** | Universidad Nacional de Colombia 🇨🇴 |
-| 💻 **Especialidad** | Lógica de programación, desarrollo y análisis |
-| 🚀 **Áreas interesadas** | Data Science, desarrollo de videojuegos y sistemas legados (COBOL) |
+| 💻 **Fortalezas** | Lógica de programación, desarrollo y análisis |
+| 🚀 **Áreas interesadas** | Analytics and Data Science,  y COBOL |
 
 
 ---
