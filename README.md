@@ -28,7 +28,7 @@
 
 | Categoría | Tecnologías e Insignias |
 | :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![COBOL](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=gnubash&logoColor=white) |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Áreas de Interés** | ![Data Science](https://img.shields.io/badge/Data_Science-111111?style=for-the-badge&logo=jupyter&logoColor=white) ![Game Dev](https://img.shields.io/badge/Game_Development-🎮-purple?style=for-the-badge) |
 
 ---
@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuelfdx01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfx01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelfdx01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
