@@ -48,7 +48,9 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manuelfdx01&theme=tokyonight" width="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuelfdx01&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manuelfdx01&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuelfdx01&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuelfdx01&theme=tokyonight" width="48%" />
 </p>
 
 ---
