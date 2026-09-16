@@ -47,13 +47,26 @@
 ### 🚀 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/Manuelfdx01/Inge-Soft-Project">
-    <img src="https://https://github-readme-stats-eight-psi-17.vercel.app/api/pin/?username=Manuelfdx01&repo=Inge-Soft-Project&theme=tokyonight" width="48%" />
-  </a>
-  <a href="https://github.com/Manuelfdx01/gomi">
-    <img src="https://github-readme-stats-eight-psi-17.vercel.app/api/pin/?username=Manuelfdx01&repo=gomi&theme=tokyonight" width="48%" />
+  <a href="https://github.com/Manuelfx01/Inge-Soft-Project">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,1,5,10&height=120&section=header&text=Inge-Soft-Project&fontSize=25&fontColor=ffffff" width="100%" />
   </a>
 </p>
+
+> ♻️ **Inge-Soft-Project:** Plataforma de logística y reciclaje en Bogotá. 
+> 🛠️ **Stack:** `Django` • `Angular` • `PostgreSQL` • `Docker`
+> 🔗 **Enlace:** [github.com/Manuelfx01/Inge-Soft-Project](https://github.com/Manuelfx01/Inge-Soft-Project)
+
+---
+
+<p align="center">
+  <a href="https://github.com/Manuelfx01/gomi">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&text=Gomi%20Project&fontSize=25&fontColor=ffffff" width="100%" />
+  </a>
+</p>
+
+> 📌 **Gomi:** Proyecto enfocado en arquitectura y desarrollo de software.
+> 🛠️ **Stack:** `TypeScript` • `Python`
+> 🔗 **Enlace:** [github.com/Manuelfx01/gomi](https://github.com/Manuelfx01/gomi)
 ---
 
 ### 📊 GitHub Stats
