@@ -47,14 +47,13 @@
 ### 🚀 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/Manuelfx01/Inge-Soft-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manuelfdx01&repo=Inge-Soft-Project&theme=tokyonight" width="48%" />
+  <a href="https://github.com/Manuelfdx01/Inge-Soft-Project">
+    <img src="https://https://github-readme-stats-eight-psi-17.vercel.app/api/pin/?username=Manuelfdx01&repo=Inge-Soft-Project&theme=tokyonight" width="48%" />
   </a>
   <a href="https://github.com/Manuelfdx01/gomi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manuelfx01&repo=gomi&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-eight-psi-17.vercel.app/api/pin/?username=Manuelfdx01&repo=gomi&theme=tokyonight" width="48%" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
