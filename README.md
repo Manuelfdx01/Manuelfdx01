@@ -52,21 +52,11 @@
   </a>
 </p>
 
-> ♻️ **Inge-Soft-Project:** Plataforma de logística y reciclaje en Bogotá. 
+> ♻️ **Gomi (Inge-Soft-Project I):** Plataforma de logística y reciclaje en Bogotá. 
 > 🛠️ **Stack:** `Django` • `Angular` • `PostgreSQL` • `Docker`
 > 🔗 **Enlace:** [github.com/Manuelfx01/Inge-Soft-Project](https://github.com/Manuelfx01/Inge-Soft-Project)
 
----
 
-<p align="center">
-  <a href="https://github.com/Manuelfx01/gomi">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&text=Gomi%20Project&fontSize=25&fontColor=ffffff" width="100%" />
-  </a>
-</p>
-
-> 📌 **Gomi:** Proyecto enfocado en arquitectura y desarrollo de software.
-> 🛠️ **Stack:** `TypeScript` • `Python`
-> 🔗 **Enlace:** [github.com/Manuelfx01/gomi](https://github.com/Manuelfx01/gomi)
 ---
 
 ### 📊 GitHub Stats
