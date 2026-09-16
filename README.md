@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/Manuelfx01/Inge-Soft-Project">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,1,5,10&height=120&section=header&text=Inge-Soft-Project&fontSize=25&fontColor=ffffff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1b2a,1b263b,415a77&height=120&section=header&text=Inge-Soft-Project&fontSize=25&fontColor=ffffff" width="100%" />
   </a>
 </p>
 
